@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A basic TODO list management app using ReactJS(todo-list-reactjs)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
